@@ -69,7 +69,7 @@ discard the cities with less than 10 Orders. b) Why is this city’s average pro
 - Appliances has the highest average profit in Australia.
 
 ### Recommendations
-  - It is recommended that the company set up warehouses or partner with local fulfillment centers  strategically located closer to the  customers in Nigeria.
+  - It is recommended that the company set up warehouses or partner with local fulfillment centers  strategically located closer to the  customers in Nigeria.This will reduce the cost of shipping to this country.
   - The company should consider reducing the sales of tables in Indonesia because it is not profitable.
 
 ### References
